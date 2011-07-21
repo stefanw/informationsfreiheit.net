@@ -1,0 +1,317 @@
+{"laws": [
+    {
+    "country": "Deutschland",
+    "state": null,
+    "city": null,
+    "name": "Informationsfreiheitsgesetz des Bundes",
+    "url": "http://www.gesetze-im-internet.de/ifg/",
+    "description": "",
+    "foisite": "https://fragdenstaat.de"
+    },
+    {
+    "country": "Deutschland",
+    "state": null,
+    "city": null,
+    "name": "Verbraucherinformationsgesetz",
+    "url": "http://www.gesetze-im-internet.de/vig/",
+    "description": "",
+    "foisite": "https://fragdenstaat.de"
+    },
+    {
+    "country": "Deutschland",
+    "state": null,
+    "city": null,
+    "name": "Umweltinformationsgesetz",
+    "url": "http://www.gesetze-im-internet.de/uig/",
+    "description": "",
+    "foisite": "https://fragdenstaat.de"
+    },
+    {
+    "country": "Deutschland",
+    "state": "Hamburg",
+    "city": null,
+    "name": "Hamburgisches Informationsfreiheitsgesetz",
+    "url": "http://www.transparency.de/fileadmin/pdfs/Themen/Verwaltung/06-04-21_IFG_Hamburg.pdf",
+    "description": "",
+    "foisite": null
+    },
+    {
+    "country": "Deutschland",
+    "state": "Rheinland-Pfalz",
+    "city": null,
+    "name": "Landesinformationsfreiheitsgesetz",
+    "url": "http://www.dgif.de/fileadmin/user_upload/pdfs/LIFG_26_November_2008.pdf",
+    "description": "",
+    "foisite": null
+    },
+    {
+    "country": "Deutschland",
+    "state": "Thüringen",
+    "city": null,
+    "name": "Thüringer Informationsfreiheitsgesetz ",
+    "url": "http://www.dgif.de/fileadmin/user_upload/pdfs/IFG-Thueringer.pdf",
+    "description": "",
+    "foisite": null
+    },
+    {
+    "country": "Deutschland",
+    "state": "Brandenburg",
+    "city": null,
+    "name": "Akteneinsichts- und Informationszugangsgesetz",
+    "url": "http://www.lda.brandenburg.de/sixcms/detail.php?id=68313&template=allgemein_lda",
+    "description": "",
+    "foisite": null
+    },
+    {
+    "country": "Deutschland",
+    "state": "Berlin",
+    "city": null,
+    "name": "Berliner Informationsfreiheitsgesetz",
+    "url": "http://www.datenschutz-berlin.de/attachments/779/IFG_2011.pdf?1304424507",
+    "description": "",
+    "foisite": null
+    },
+    {
+    "country": "Deutschland",
+    "state": "Schleswig-Holstein",
+    "city": null,
+    "name": "Informationsfreiheitsgesetz für das Land Schleswig-Holstein",
+    "url": "https://www.datenschutzzentrum.de/material/recht/ifg.htm",
+    "description": "",
+    "foisite": "https://fragdenstaat.de"
+    },
+    {
+    "country": "Deutschland",
+    "state": "Nordrhein-Westfalen",
+    "city": null,
+    "name": "Informationsfreiheitsgesetz Nordrhein-Westfalen",
+    "url": "https://recht.nrw.de/lmi/owa/br_bes_text?anw_nr=2&gld_nr=2&ugl_nr=2010&bes_id=5012&menu=1&sg=0&aufgehoben=N&keyword=ifg#det0",
+    "description": "",
+    "foisite": null
+    },
+    {
+    "country": "Deutschland",
+    "state": "Mecklenburg-Vorpommern",
+    "city": null,
+    "name": "Informationsfreiheitsgesetz Mecklenburg-Vorpommern",
+    "url": "http://mv.juris.de/mv/gesamt/InfFrG_MV.htm#InfFrG_MV_rahmen",
+    "description": "",
+    "foisite": null
+    },
+    {
+    "country": "Deutschland",
+    "state": "Bremen",
+    "city": null,
+    "name": "Umweltinformationsgesetz",
+    "url": "http://www.transparency.de/fileadmin/pdfs/Themen/Verwaltung/06-05-16_IFG_Bremen.pdf",
+    "description": "",
+    "foisite": null
+    },
+    {
+    "country": "Deutschland",
+    "state": "Saarland",
+    "city": null,
+    "name": "Saarländisches Informationsfreiheitsgesetz",
+    "url": "http://sl.juris.de/sl/gesamt/SIFG_SL_2006.htm#SIFG_SL_2006_rahmen",
+    "description": "",
+    "foisite": null
+    },
+    {
+    "country": "Deutschland",
+    "state": "Sachsen-Anhalt",
+    "city": null,
+    "name": "Informationszugangsgesetz Sachen-Anhalt",
+    "url": "http://www.dgif.de/fileadmin/user_upload/pdfs/IZG-LSA.pdf",
+    "description": "",
+    "foisite": null
+    },
+    {
+    "country": "Deutschland",
+    "state": "Bayern",
+    "city": "Bad Tölz",
+    "name": "",
+    "url": "http://www.bad-toelz.de/uploads/media/Informationsfreiheitssatzung_Ausfertigung.pdf",
+    "description": "",
+    "foisite": null
+    },
+    {
+    "country": "Deutschland",
+    "state": "Bayern",
+    "city": "Markredwitz",
+    "name": "",
+    "url": "http://www.marktredwitz.de/file/3751_03_2011.pdf",
+    "description": "",
+    "foisite": null
+    },
+    {
+    "country": "Deutschland",
+    "state": "Bayern",
+    "city": "Wunsiedel",
+    "name": "",
+    "url": "http://www.mehr-demokratie.de/fileadmin/i18t.org/pdf/IFS_Wunsiedel.pdf",
+    "description": "",
+    "foisite": null
+    },
+    {
+    "country": "Deutschland",
+    "state": "Bayern",
+    "city": "Abensberg",
+    "name": "",
+    "url": "http://cms.abensberg.de/Portals/34/Dokumente/Rathaus/Informationsfreiheitssatzung%20(g%C3%BCltig%20bis%2031.03.2013).pdf",
+    "description": "",
+    "foisite": null
+    },
+    {
+    "country": "Deutschland",
+    "state": "Bayern",
+    "city": "Regensburg",
+    "name": "",
+    "url": "http://www.informationsfreiheit.org/fileadmin/i18t.org/pdf/Informationsfreiheitssatzung_Regensburg.pdf",
+    "description": "",
+    "foisite": null
+    },
+    {
+    "country": "Deutschland",
+    "state": "Bayern",
+    "city": "München",
+    "name": "",
+    "url": "http://www.ris-muenchen.de/RII2/RII/DOK/SITZUNGSVORLAGE/2242932.pdf",
+    "description": "",
+    "foisite": null
+    },
+    {
+    "country": "Deutschland",
+    "state": "Bayern",
+    "city": "Ingolstadt",
+    "name": "",
+    "url": "http://www2.ingolstadt.de/media/custom/465_6484_1.PDF?1299832353",
+    "description": "",
+    "foisite": null
+    },
+    {
+    "country": "Deutschland",
+    "state": "Bayern",
+    "city": "Kelheim",
+    "name": "",
+    "url": "http://www.landkreis-kelheim.de/amtsblatt/2011/krabl201104.pdf",
+    "description": "",
+    "foisite": null
+    },
+    {
+    "country": "Deutschland",
+    "state": "Bayern",
+    "city": "Würzburg",
+    "name": "",
+    "url": "http://www.informationsfreiheit.org/index.php?eID=tx_nawsecuredl&u=0&file=uploads/media/Informationsfreiheits-Satzung_Wuerzburg.pdf&t=1306258964&hash=d671415932cbb812d93b54594925cecf",
+    "description": "",
+    "foisite": null
+    },
+    {
+    "country": "Deutschland",
+    "state": "Bayern",
+    "city": "Bad Endorf",
+    "name": "",
+    "url": "http://www.bad-endorf.de/uploads/media/Informationsfreiheitssatzung_mit_Aenderung_der_Kostensatzung.pdf",
+    "description": "",
+    "foisite": null
+    },
+    {
+    "country": "Deutschland",
+    "state": "Bayern",
+    "city": "Ottobrunn",
+    "name": "",
+    "url": "http://www.ottobrunn.de/Dox.aspx?docid={A62FA4EC-D550-475E-9BAD-FC2A6B502214}",
+    "description": "",
+    "foisite": null
+    },
+    {
+    "country": "Deutschland",
+    "state": "Bayern",
+    "city": "Passau",
+    "name": "",
+    "url": "http://www.mehr-demokratie.de/fileadmin/i18t.org/pdf/Passau_Informationsfreiheitssatzung.pdf",
+    "description": "",
+    "foisite": null
+    },
+    {
+    "country": "Deutschland",
+    "state": "Bayern",
+    "city": "Coburg",
+    "name": "",
+    "url": "http://coburg.de/Portaldata/2/Resources/dokumente/r1-rechtsamt/stadtrecht/076-InformationsfreiheitsS.pdf",
+    "description": "",
+    "foisite": null
+    },
+    {
+    "country": "Deutschland",
+    "state": "Bayern",
+    "city": "Sinzing",
+    "name": "",
+    "url": "http://www.sinzing.de/DynDox/B9E53A99-8147-4102-A41D-09F6FDF87095/Satzung_Erlass%20einer%20Informationssatzung_26.02.10.pdf",
+    "description": "",
+    "foisite": null
+    },
+    {
+    "country": "Deutschland",
+    "state": "Bayern",
+    "city": "Schwandorf",
+    "name": "",
+    "url": "http://www.schwandorf.de/media/custom/1651_645_1.PDF",
+    "description": "",
+    "foisite": null
+    },
+    {
+    "country": "Deutschland",
+    "state": "Bayern",
+    "city": "Kahl am Main",
+    "name": "",
+    "url": "http://www.kahl-main.de/sites/extLink.asp?SID=cms140620101507356906549&Link=1400",
+    "description": "",
+    "foisite": null
+    },
+    {
+    "country": "Deutschland",
+    "state": "Bayern",
+    "city": "Bad Aibling",
+    "name": "",
+    "url": "http://www2.bad-aibling.de/fileadmin/redakteur/Buergerservice/Rathaus/Sachregister/SatzungenundVerordnungen/Informationsfreiheitssatzung.pdf",
+    "description": "",
+    "foisite": null
+    },
+    {
+    "country": "Deutschland",
+    "state": "Bayern",
+    "city": "Kitzingen",
+    "name": "",
+    "url": "http://www.kitzingen.info/fileadmin/files_rathaus_buergerservice/PDF_Ortsrecht/informationsfreiheitssatzung.pdf",
+    "description": "",
+    "foisite": null
+    },
+    {
+    "country": "Deutschland",
+    "state": "Bayern",
+    "city": "Grasbrunn",
+    "name": "",
+    "url": "http://www.grasbrunn.de/verwaltung_rathaus/archiv/2010_06_08_Satzung_zur_Regelung_des_Zugangs_zu_Informationen_des_eigenen_Wirkungskreises_der_Gemeinde_Grasbrunn_Informationsfreiheitssatzung_Endfassung.pdf",
+    "description": "",
+    "foisite": null
+    },
+    {
+    "country": "Deutschland",
+    "state": "Bayern",
+    "city": "Pullach im Isartal",
+    "name": "",
+    "url": "http://www.pullach.de/media/downloads/08f8dInformationsfreiheitssatzung_BK.pdf",
+    "description": "",
+    "foisite": null
+    },
+    {
+    "country": "Deutschland",
+    "state": "Bayern",
+    "city": "Prien am Chiemsee",
+    "name": "",
+    "url": "http://www.prien.de/files/Satzungen_und_Verordnungen/informationsfreiheitssatzung.pdf",
+    "description": "",
+    "foisite": null
+    }
+]}
