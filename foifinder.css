@@ -1,0 +1,67 @@
+header, article, footer {
+  display: block;
+}
+body {
+  margin: 1em 0.5em 1em;
+  font-family: Helvetica, Arial, sans-serif;
+}
+a, a:visited {
+  color: #74C4F3;
+}
+
+a:hover {
+  color: #74C4F3;
+}
+
+.heading {
+  margin: 0 auto;
+  text-align: center;
+  font-family: 'UnifrakturCook', "Blackmoor LET", "Lucida Blackletter", cursive;
+  font-weight: bold;
+  color: #74C4F3;
+}
+#main-heading {
+  font-size: 82px;
+  padding:0;
+  margin-bottom: 0px;
+  line-height: 0.5em;
+}
+#sub-heading {
+  margin: 0px;
+  font-size: 62px;
+  padding:0;
+}
+.main {
+  width: 650px;
+  margin: 2em auto 0;
+}
+.main h3 {
+  text-align:center;
+  margin: 0 auto;
+}
+
+.main p {
+  text-align:center;
+}
+#result {
+}
+
+#result h3 {
+    margin: 1em 0 0;
+}
+#result table {
+  width: 100%;
+  text-align: left;
+  border: 1px solid #ccc;
+}
+
+#footer {
+  font-size: 0.8em;
+  text-align: center;
+  margin: 5em auto 0;
+  color: #ccc;
+}
+
+#footer a, #footer a:visited {
+    color: #ccc;
+}

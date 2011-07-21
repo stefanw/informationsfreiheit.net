@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>   
+  <title>Informationsfreiheit.net</title>
+  <link href="http://fonts.googleapis.com/css?family=UnifrakturCook:700&amp;v2" rel="stylesheet" type="text/css"/>
+  <link rel="stylesheet" href="foifinder.css" type="text/css" media="screen" title="no title" charset="utf-8">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+  <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false&amp;language=de"></script>
+</head>
+<body>
+  <header class="heading">
+    <h1 id="main-heading">Informationsfreiheit.net</h1>
+  </header>
+  <article class="main">
+    <h3>Welche Informationsgesetze gelten an deinem Ort?</h3>
+    <form action="." method="get">
+        <p><label for="address">Deine Adresse</label>: 
+        <input type="text" size="30" name="adresse" id="address" placeholder="Deine Adresse"/>
+        <input type="submit" id="geocodeme" value="Los" /><span id="geoavailable"> oder <button id="geolocateme">Ort automatisch erkennen!</button></span>
+        </p>
+    </form>
+    <p id="you-are-here"></p>
+    <div id="result">
+    </div>
+  </article>
+  <footer id="footer">
+      Fehlendes Gesetz oder fehlende Satzung? Fragen? Mail an <a href="mailto:mail@stefanwehrmeyer.com">Stefan Wehrmeyer</a>!<br/>
+      Gehostet von der <a href="http://okfn.de">Open Knowledge Foundation Deutschland</a><br/>
+      Impressum: <a href="http://stefanwehrmeyer.com">Stefan Wehrmeyer</a>, Weisestr. 22, 12049 Berlin
+  </footer>
+  <script src="foifinder.js" type="text/javascript" charset="utf-8"></script>
+</body>
+</html>
