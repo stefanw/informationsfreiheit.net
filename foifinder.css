@@ -16,10 +16,11 @@ a:hover {
 .heading {
   margin: 0 auto;
   text-align: center;
-  font-family: 'UnifrakturCook', "Blackmoor LET", "Lucida Blackletter", cursive;
+  font-family: 'Gentium Basic', serif;
   font-weight: bold;
   color: #74C4F3;
 }
+
 #main-heading {
   font-size: 82px;
   padding:0;
